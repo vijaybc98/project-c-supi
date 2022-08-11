@@ -10,6 +10,6 @@ void sumof2numbers () {
     sum = number1 + number2;      
     
     printf("\n\n %d + %d = %d", number1, number2, sum);
-    // return 0;
+    //  return 0;
 }
 
